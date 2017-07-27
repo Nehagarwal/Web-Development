@@ -1,0 +1,253 @@
+#topbar{
+			width: 1100px;
+			margin: 0 auto;
+			background-color:white;
+			height:40px;
+		}
+		body{
+			margin:0;
+			padding:0;
+			font-family: Helvetica, Arial, sans-serif;
+		}
+		#logo{
+			margin-top:8px;
+			width:100px;
+			float:left;
+			margin-right:8px;
+			height:30px;
+			}	
+		.topbar-section{
+			float:left;
+			border-left: 1px #CCCCCC solid;
+			height=100%;
+			}	
+		#signin-image{
+			width:25px;
+			margin:10px 15px;
+			float:left;
+		}
+		#signin-text{
+			font-weight:bold;
+			font-size:90%;
+			position:relative;
+			top:14px;
+			padding-right:50px;
+			}
+		#wigglyline{
+			float:left;
+			height:43px;
+			}
+		#bell{
+			width:25px;
+			margin:9px 8px 0px 8px;
+			float:left;
+			}
+		#bell-div{
+			float:left;
+			}
+		.topbar-menu{
+			padding:13px 15px 0 15px;
+			font-weight:bold;
+			font-size:90%;
+			height:30px;
+			float:left;
+			}
+		#more{
+			width:16px;
+			margin-left:20px;
+			
+			}
+		#search{
+			background-color:#E4E4E4;
+			border:none;
+			float:left;
+			font-weight:bold;
+			font-size:14px;
+			padding:5px;
+			margin:9px 0 5px 9px;
+			}
+		#magnifying-glass{
+			height:26px;
+			float:left;
+			margin-top:9px;
+		}
+		.clear{
+			clear:both;
+		}
+		#menubar-container{
+			background-color:#BB1919;
+			height:60px;
+			border-top: 1px #CCCCCC solid;
+			}
+		#menu-bar{
+			width: 1100px;
+			margin: 0px auto;
+			padding-top:7px;
+			padding-bottom:10px;
+			}
+		h1{
+			padding:0;
+			margin:0;
+			color:white;
+			font-size:40px;
+			font-weight:normal:
+			padding-top:10px;
+			float:left;
+			}
+		#local-news{
+			float:right;
+			color:white;
+			border: 1px #BB4545 solid;
+			width:200px;
+			padding: 0px 5px 0px 8px;
+			}
+		#local-news a{
+			color:white;
+			font-size:20px;
+			text-decoration:none;
+			position:relative;
+			top:-10px;
+			}
+		#local-news a:hover{
+			text-decoration:underline;
+			}
+		#local-news img{
+			height:40px;
+			}
+		#menu{
+			background-color:#A91717;
+			height:37px;
+			}
+		#menubar{
+			width:1100px;
+			margin:0 auto;
+			}
+		#menubar a{
+			color:white;
+			border-right:1px #BB4545 solid;
+			text-decoration:none;
+			font-size:15px;
+			margin-top:7px;
+			float:left;
+			padding: 0px 10px 0px 10px;
+			}
+		#menubar a:hover{
+			text-decoration:underline;
+			}
+		.no-border{
+			border:none !important;
+			padding-right:0;
+			}
+		#down-arrow{
+			width:15px;
+			height:15px;
+			float:left;
+			margin-top:8px;
+			}
+		#page-container{
+			width:1100px;
+			margin: 0 auto;
+			}
+		h2{
+			margin:5;
+			font-weight:normal;
+			font-size:20px;
+			border-bottom:2px #A91717 solid;
+			width:110px;
+			}
+		h3 a{
+			text-decoration:none;
+			font-size:35px;
+			color:#403834;
+			}
+		h3 a:hover{
+			color:#1167a8;
+			}
+		#article-summary{
+			color:#5a5a5a;
+			width:250px;
+			float:left;
+			}
+		.clock{
+			width:15px;
+			height:15px;
+			position:relative;
+			top:2px;
+			}
+		.topic-link{
+			text-decoration:none;
+			color:#a61b1b;
+			border-left:1px #CCCCCC solid;
+			padding-left:10px;
+			}
+		#article-summary a:hover{
+			color:#1167a8;
+			}
+		.date{
+			padding-right:10px;
+			font-size:15px;
+			}
+		#article-container{
+			float:left;
+			width:700px;
+			border-right:1px solid #CCCCCC;
+			padding-right:20px;
+			}
+		#article-image{
+			float:left;
+			width:430px;
+			margin-left:20px;
+			}
+		#article-hr{
+			border-color:#A91717;
+			width:50px;
+			float:left;
+			position:relative;
+			top:-10px;
+			}	
+		.article-link{
+			text-decoration:none;
+			color:black;
+			position:relative;
+			top:-20px;
+			}
+		#watch-listen{
+			margin-left:5px;
+			float:right;
+			width:350px;
+			}
+		h4{
+			font-size:25px;
+			font-weight:normal;
+			position:relative;
+			top:-10px;
+			}
+		.watch-listen-image{
+			width:110px;
+			float:left;
+			margin-right:5px;
+			position:relative;
+			top:-15px;
+			}
+		.watch-listen-link{
+			text-decoration:none;
+			color:black;
+			font-weight:bold;
+			font-size:18px;
+			
+			}
+		.watch-listen-link:hover{
+			color:#1167a8;
+			}
+		.side-article{
+			float:right;
+			width:220px;
+			position:relative;
+			top:-38px;
+			}
+		.border-right{
+			border-right:1px solid #CCCCCC;
+			}
+		.no-border{
+			border:none !important;
+			}
